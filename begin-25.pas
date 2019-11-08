@@ -1,4 +1,4 @@
-﻿program begin25;
+program begin25;
 begin 
   
 end.
